@@ -1,8 +1,3 @@
-
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
 # Priscila G M C Florentino
 
 ## 🚀 Sobre mim
